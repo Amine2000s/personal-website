@@ -1,12 +1,21 @@
 # Chabi Amine sif eddine
 
-!!! info "📸 About Me"
+## 📸 About Me
 
-![[My Profile Picture](/docs/assets/profile.jpg)]
+<div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem; flex-wrap: wrap;">
 
-    ```I'm a recent Computer Science graduate from Algeria, passionate about building reliable backend systems, learning through open-source collaboration, and continuously evolving as a software engineer. I specialize in Java-based development and enjoy turning ideas into software solutions that are scalable and developer-friendly.```
+<img src="assets/images/profile.jpg" alt="Profile Picture"
+       style="width: 160px; border-radius: 15px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
 
----
+  <div style="flex: 1; min-width: 250px;">
+
+I'm a recent Computer Science graduate from <b>Algeria</b>, passionate about building reliable backend systems, learning through open-source collaboration, and continuously evolving as a software engineer.
+
+I specialize in <b>Java-based development</b> and enjoy turning ideas into software solutions that are scalable and developer-friendly.
+
+  </div>
+
+ </div>
 
 ## 💻 What I Do
 
@@ -30,7 +39,7 @@
 
 ## 📫 Let’s Connect
 
-Looking to collaborate, learn, or share knowledge? Feel free to [reach out](contact.md) or connect with me on:
+Looking to collaborate, learn, or share knowledge? Feel free to [reach out]() or connect with me on:
 
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
