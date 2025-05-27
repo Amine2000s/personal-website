@@ -1,7 +1,5 @@
 # Chabi Amine sif eddine
 
-## 📸 About Me
-
 <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem; flex-wrap: wrap;">
 
 <img src="assets/images/profile.jpg" alt="Profile Picture"

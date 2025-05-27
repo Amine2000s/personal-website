@@ -37,6 +37,6 @@ plugins:
   - blog
 
 nav:
-  - Home: Home.md
+  - Home: index.md
   - Projects: projects.md
   - Resume: resume.md
