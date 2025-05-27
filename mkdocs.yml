@@ -1,0 +1,42 @@
+site_name: CHABI Amine sif eddine
+repo_url: https://github.com/Amine2000s
+repo_name: Amine2000s
+#copyright: Copyright &copy; CHABI Amine sif eddine
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/amine-chabi-a90b7822a/
+theme:
+  name: material 
+  features:
+    - navigation.expand
+    - navigation.path
+    - toc.integrate 
+    - navigation.footer
+
+  palette: 
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Palette toggle for light mode
+
+    - scheme: default
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+plugins:
+  - blog
+
+nav:
+  - Home: Home.md
+  - Projects: projects.md
+  - Resume: resume.md
+  - Contact: contact.md
