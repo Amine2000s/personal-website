@@ -18,9 +18,9 @@ theme:
   features:
     - navigation.expand
     - navigation.path
-    - toc.integrate 
     - navigation.footer
-
+  toc:  
+      sticky: true
   palette: 
 
     # Palette toggle for dark mode
@@ -44,6 +44,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - Projects: projects/index.md
   - Blog : blog/index.md
   - Resume: resume.md
