@@ -53,14 +53,15 @@ Here are a few things I’ve been building recently:
 
 ---
 ## 📝 Recent Blog Posts
-- [🔍 Intro to AOP in Spring Boot](blog/intro-to-aop.md)  
-  Understanding cross-cutting concerns through real-world logging.
 
-- [⚙️ Async File Upload with Spring](blog/spring-async-file-upload.md)  
-  Building performant upload APIs with background processing.
+- [🔍 Web Scraper During bac exam shutdown](blog/bac-web-scraper.md)  
+How i Built a custom web scraper to preserve learning materials when Algeria’s internet was cut off during the BAC exam blackout.
 
-- [🔐 Rate Limiting with Spring AOP](blog/rate-limiting.md)  
-  Custom rate limit logic without relying on third-party libraries.
+- [⚙️ My Experince with GSOC 2025](blog/spring-async-file-upload.md)  
+I didn’t get in — but I walked away with real experience, stronger skills, and deeper insight into open source and medical imaging systems.
+
+- [🔐 Why Every CS Student Should Touch Grass—and Also Use Linux](blog/why-linux.md.md)  
+  A practical (and slightly provocative) case for using Linux as a CS student—from system transparency to real control, and how the terminal teaches you more than any course ever could.
 
 [→ Browse All Blog Posts](blog/index.md)
 

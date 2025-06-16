@@ -6,6 +6,12 @@ Welcome to my blog—where I document what I'm learning, building, breaking, and
 
 ## Latest Posts
 
-- [My experince with GSOC 2025](my-exp-w-gsoc.md)
-- [They shutt of the internet , i responded with a web scraper ](bac-web-scraper.md)
+
+
+- [🔍 Web Scraper During bac exam shutdown](bac-web-scraper.md)  
+
+- [⚙️ My Experince with GSOC 2025](my-exp-w-gsoc.md)  
+
+- [🐧 Why Every CS Student Should Touch Grass—and Also Use Linux](why-linux.md)  
+
 - _More coming soon..._
