@@ -40,8 +40,8 @@ I focus primarily on backend development—Java, Spring Boot, APIs, and systems 
 
 Here are a few things I’ve been building recently:
 
-- [📎 File Upload & Compression API](projects/file-compression-api.md)  
-  REST API with GZIP compression, validation, async processing (Spring Boot).
+- [🏛️  DIGIQA :Digitizing University Quality Assurance](projects/digiqa.md)  
+  A platfrom to monitors the Services prodived by the University of Biskra based on Algeria's RNAQES
 
 - [🔗 Shortify – URL Shortener](projects/url-shortener.md)  
   Web app to shorten and track URLs, built with Spring MVC + Thymeleaf.
@@ -60,7 +60,7 @@ How i Built a custom web scraper to preserve learning materials when Algeria’s
 - [⚙️ My Experince with GSOC 2025](blog/spring-async-file-upload.md)  
 I didn’t get in — but I walked away with real experience, stronger skills, and deeper insight into open source and medical imaging systems.
 
-- [🔐 Why Every CS Student Should Touch Grass—and Also Use Linux](blog/why-linux.md.md)  
+- [🐧 Why Every CS Student Should Touch Grass—and Also Use Linux](blog/why-linux.md.md)  
   A practical (and slightly provocative) case for using Linux as a CS student—from system transparency to real control, and how the terminal teaches you more than any course ever could.
 
 [→ Browse All Blog Posts](blog/index.md)
