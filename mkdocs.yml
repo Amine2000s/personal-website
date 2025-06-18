@@ -12,7 +12,7 @@ extra:
       link: https://www.linkedin.com/in/amine-chabi-a90b7822a/
     - icon: fontawesome/solid/envelope
       link: mailto:chabiaminesifeddine@gmail.com
-   
+
 theme:
   name: material 
   features:
@@ -38,6 +38,9 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
+  
+  extra_css : assets/images/styles/custom.css
+
 
 plugins:
   - blog
