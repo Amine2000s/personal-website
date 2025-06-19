@@ -19,8 +19,12 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.footer
+    - content.images.zoom
   toc:  
       sticky: true
+
+  
+
   palette: 
 
     # Palette toggle for dark mode
@@ -39,14 +43,17 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
   
-  extra_css : assets/images/styles/custom.css
-
 
 plugins:
   - blog
+  - glightbox
+
 
 nav:
   - Home: index.md
   - Projects: projects/index.md
   - Blog : blog/index.md
   - Resume: resume.md
+
+markdown_extensions:
+    - attr_list

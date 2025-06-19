@@ -66,6 +66,8 @@ I didn’t get in — but I walked away with real experience, stronger skills, a
 [→ Browse All Blog Posts](blog/index.md)
 
 
+
+
 ## 📫 You can find me 
 
 Looking to collaborate, learn, or share knowledge? Feel free to [reach out]() or connect with me on:
