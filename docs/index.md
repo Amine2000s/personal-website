@@ -46,7 +46,7 @@ Here are a few things I’ve been building recently:
 - [🔗 Shortify – URL Shortener](projects/url-shortner.md)  
   Web app to shorten and track URLs, built with Spring MVC + Thymeleaf.
 
-- [🚮 Biskra Nadifa](projects/biskra-nadifa-1.md.md)  
+- [🚮 Biskra Nadifa](projects/biskra-nadifa-1.md)  
   Waste management backend for mobile + dashboard clients.
 
 [→ View All Projects](projects/index.md)
