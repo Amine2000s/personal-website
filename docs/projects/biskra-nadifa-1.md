@@ -4,12 +4,15 @@
 
 ## 🔍 Overview
 
-![biskra-nadifa-overview](../assets/images/blog/biskra-nadifa-1/biskra-nadifa-overview.png){loading=lazy}
 
 
 **Biskra Nadifa** (Arabic: "A Clean Biskra") is a **waste management platform** designed to address the escalating **problem of unmanaged trash in Biskra city** , Algeria. It facilitates digital coordination between citizens, cleaning agents (drivers), and system administrators to ensure responsive and efficient urban sanitation.
 
+![biskra-nadifa-overview](../assets/images/blog/biskra-nadifa-1/biskra-nadifa-overview.png){loading=lazy}
+
+
 This project was originally built as a **demonstrative MVP for a university graduation project**, with a **complete backend system developed using Spring Boot**.
+
 
 ---
 
