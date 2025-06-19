@@ -43,10 +43,10 @@ Here are a few things I’ve been building recently:
 - [🏛️  DIGIQA :Digitizing University Quality Assurance](projects/digiqa.md)  
   A platfrom to monitors the Services prodived by the University of Biskra based on Algeria's RNAQES
 
-- [🔗 Shortify – URL Shortener](projects/url-shortener.md)  
+- [🔗 Shortify – URL Shortener](projects/url-shortner.md)  
   Web app to shorten and track URLs, built with Spring MVC + Thymeleaf.
 
-- [🚮 Biskra Nadifa](projects/biskra-nadifa.md)  
+- [🚮 Biskra Nadifa](projects/biskra-nadifa-1.md.md)  
   Waste management backend for mobile + dashboard clients.
 
 [→ View All Projects](projects/index.md)
