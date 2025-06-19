@@ -57,10 +57,10 @@ Here are a few things I’ve been building recently:
 - [🔍 Web Scraper During bac exam shutdown](blog/bac-web-scraper.md)  
 How i Built a custom web scraper to preserve learning materials when Algeria’s internet was cut off during the BAC exam blackout.
 
-- [⚙️ My Experince with GSOC 2025](blog/spring-async-file-upload.md)  
+- [⚙️ My Experince with GSOC 2025](blog/my-exp-w-gsoc.md)  
 I didn’t get in — but I walked away with real experience, stronger skills, and deeper insight into open source and medical imaging systems.
 
-- [🐧 Why Every CS Student Should Touch Grass—and Also Use Linux](blog/why-linux.md.md)  
+- [🐧 Why Every CS Student Should Touch Grass—and Also Use Linux](blog/why-linux.md)  
   A practical (and slightly provocative) case for using Linux as a CS student—from system transparency to real control, and how the terminal teaches you more than any course ever could.
 
 [→ Browse All Blog Posts](blog/index.md)
