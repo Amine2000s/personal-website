@@ -37,9 +37,9 @@ I’ve also experimented with building mobile apps using Android/Java, and creat
 ### 🎓 Microsoft Learn Student Ambassador  
 *Beta Level – 2023–2024*
 
-- Selected as a **Beta-level ambassador** in Microsoft’s global student program.  
 - Organized and delivered a hands-on **Git & GitHub workshop** for university students.  
 - Advocated for open-source practices and modern dev tools within the campus community.
+- Reached **Beta-level ambassador** in Microsoft’s global student program.  
 
 ---
 
@@ -47,9 +47,9 @@ I’ve also experimented with building mobile apps using Android/Java, and creat
 **DEBUG – Scientific Club, Faculty of Exact Sciences, Biskra**  
 *2022–2023*
 
-- Co-founded a student-led club focused on technical skill-building and peer learning.  
-- Co-organized workshops on **programming, algorithms, and software tools**.  
-- Fostered a campus culture of self-learning and curiosity through regular events and mentoring.
+- founding member of  a student-led club focused on technical skill-building and peer learning.  
+- Co-organized Differnect activties such as workshops , comptetions and livestreams covering on **programming, algorithms, and software tools**.  
+
 
 ---
 
@@ -59,15 +59,16 @@ I’ve also experimented with building mobile apps using Android/Java, and creat
 *2025 Cohort*
 
 - Selected for a national program to prepare junior consultants to assist Algerian SMEs in their **digital transformation**.  
-- Training covers **enterprise digital strategy**, **SME technology adoption**, and **field work** with real businesses.
+- Training covers **Data analysis**, **Cosutmer relationship management**, and **Buissnes Process Modeling/Managment** with real businesses case scenarios
 ---
 
 ## 🧩 Projects
 
-> For full descriptions, visit [my projects](/projects).
-See [Projects](projects.md) for full descriptions, but a few highlights:
+> For full descriptions, visit [my projects](projects/index.md) 
 
-- **DIGIQA:** Full backend for a digital quality assurance system for universities. Included role-based access, gzip file upload, async logging via AOP + MDC, and JWT auth.
+- **DIGIQA:** Full backend for a digital quality assurance system for universities. Included role-based access, gzip file upload, async logging 
+via AOP + MDC, and JWT auth.
+- **Biskra nadifa 1.0**  An MVP waste management platform connecting citizens, municipal agents, and drivers.Built to adress random waste problem in Biskra city
 - **Shortify URL:** A Spring MVC + Thymeleaf app for shortening URLs and tracking analytics. Built with performance and modularity in mind.
 - **Web Scrapers:** Built multiple scrapers to legally download educational material during internet outages — showing the power of Python + automation under real constraints.
 

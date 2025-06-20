@@ -4,6 +4,9 @@
 
 **Rejection…**
 
+
+![GSOC](../assets/images/blog/gsoc/GSOC.png)
+
 It’s something we all face at some point,especially in the world of software engineering.
 
 Whether you’re applying for internships or jobs, proposing new features, or making important decisions,rejection can and will happen.

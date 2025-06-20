@@ -59,7 +59,6 @@ A new statistics dashboard will provide:
 
 - Charts (visits over time, device split)
 - Filters by date, device, and country
-- Pagination of visit records
 
 ---
 
@@ -117,5 +116,4 @@ Then open: http://localhost:8085/Dashboard or http://localhost:8085/Home
 | Analytics panel w/ charts | 🟡 Planned | Charts.js or similar with device filters |
 | Redis caching             | ⚪ Optional | For performance at scale                 |
 | Image uploads (preview)   | ⚪ Idea     | Optional for visualizing content         |
-| Pagination                | 🟡 Planned | For large visit logs                     |
 | Nginx + VPS deployment    | ⚪ Planned  | For production deployment                |

@@ -2,6 +2,8 @@
 
 Here are some of the projects I’ve built—either to solve a problem, learn something new, or just for fun.
 
+feel free to check out my [github](https://github.com/Amine2000s) to view all my projects , since i didn't documented them all yet .
+
 ---
 
 ## Featured Projects
