@@ -51,7 +51,9 @@ plugins:
 
 nav:
   - Home: index.md
-  - Projects: projects/index.md
+  - Projects: 
+      - projects/index.md
+      - projects/opensource.md
   - Blog : blog/index.md
   - Resume: resume.md
 
