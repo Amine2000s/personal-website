@@ -21,7 +21,7 @@ feel free to check my open and closed issues [here](https://github.com/Mayuresh-
 
 ## 📁 DICOM Image Management Tool (Google Summer of Code PoC)
 
-**Repository:** [Link to PoC repo or fork]
+**Repository:** [here](https://github.com/KathiraveluLab/Diomede)
 
 - 🛠️ Built a JavaFX-based proof of concept for a medical imaging album tool
 - 📚 Helped new contributors by answering setup questions
