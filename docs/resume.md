@@ -1,6 +1,6 @@
 # 📄 Resume
 
-You can [download my resume as PDF](assets/resume.pdf) or view it below.
+You can [download my resume as PDF](./files/CV_CHABI_Amine_sif_eddine.pdf) (availlable in french )or view it below.
 
 ---
 
