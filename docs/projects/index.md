@@ -27,6 +27,20 @@ A minimal set of **web scrapers** built to **download course material** during *
 
 ---
 
+## 🛠️ Other Projects
+
+A selection of smaller tools, experimental builds, and academic prototypes.
+
+- **[Weather Forecast Website](https://github.com/Amine2000s/weather-web-site-with-redis-cache)**: Express.js + Redis caching with external API
+- **[Emailer Extension](https://github.com/Amine2000s/email-automation-browser-extension)**: Browser extension for email automation (WIP)
+- **[Task Manager App](https://github.com/Amine2000s/ToDoList_fx)**: JavaFX + MySQL with CRUD and search
+- **[Delivery Robot Controller](https://github.com/Amine2000s/KcubeWirelessController)**: Android app using Bluetooth socket for robot navigation
+- **[Cats vs Dogs Classifier](https://github.com/Amine2000s/Classification-CNN)**: CNN model trained on Kaggle dataset
+- **[Bank Dataset MLP Classifier](https://github.com/Amine2000s/multi-layer-Perceptron)**: Multilayer Perceptron with performance tuning
+- **[DICOM Image Management Tool](https://github.com/Amine2000s/dicom-albums-manager)**: PoC app for medical image metadata querying (GSoC proposal)
+- **[Course Web Scraper](https://github.com/Amine2000s/Web-Scraper-py)**: Python script to automate the legal download of course materials from structured pages
+
+
 
 
 
