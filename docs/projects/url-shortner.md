@@ -41,24 +41,24 @@ This is an actively developed project. The MVP is functional, and new capabiliti
 
 ---
 
-## 🔐 Authentication (Planned)
+## 🔐 Authentication (Done)
 
 Authentication will be added using **session-based login** via Spring Security, instead of stateless JWT. This aligns better with Thymeleaf and server-side rendered workflows.
 
 ---
 
-## 🐳 Docker (Planned)
+## 🐳 Docker (on going)
 
 The app will be Dockerized to support deployment via containers and integrated into a CI/CD pipeline. MySQL will run in a separate container.
 
 ---
 
-## 📊 Analytics Panel (Planned)
+## 📊 Analytics Panel (1/2 on going)
 
 A new statistics dashboard will provide:
 
-- Charts (visits over time, device split)
-- Filters by date, device, and country
+- Charts (visits over time, device split)(done)
+- Filters by date, device, and country (on going)
 
 ---
 
@@ -111,9 +111,15 @@ Then open: http://localhost:8085/Dashboard or http://localhost:8085/Home
 
 | Feature                   | Status     | Notes                                    |
 | ------------------------- | ---------- | ---------------------------------------- |
-| Authentication (Sessions) | 🟡 Planned | Simpler and better for Thymeleaf apps    |
-| Docker support            | 🟡 Planned | MySQL + app containerization             |
-| Analytics panel w/ charts | 🟡 Planned | Charts.js or similar with device filters |
+| Authentication (Sessions) | 🟢 Done | Simpler and better for Thymeleaf apps    |
+| Docker support            | 🟠 on Going | MySQL + app containerization             |
+| Analytics panel w/ charts | 1/2  on Going | Charts.js or similar with device filters |
 | Redis caching             | ⚪ Optional | For performance at scale                 |
-| Image uploads (preview)   | ⚪ Idea     | Optional for visualizing content         |
 | Nginx + VPS deployment    | ⚪ Planned  | For production deployment                |
+
+
+
+## 📷 Image Gallery
+
+![dashboard-overview](../assets/images/projects/shortify/dashboard.jpg){loading=lazy}
+![stats-overview](../assets/images/projects/shortify/stats.jpg){loading=lazy}
