@@ -22,7 +22,7 @@ feel free to check out my [github](https://github.com/Amine2000s) to view all my
 - [🚮 Biskra nadifa 2.0](biskra-nadifa-2.md)  
 **An architectural overhaul** focused on **production readiness**, **scalability**, and **performance**—integrating **message queues**, **authentication**, **rate limiting**, and other backend best practices.
 
-- [📚 Web Scraper ](web-scraper.md)  
+- [📚 Web Scraper ](https://github.com/Amine2000s/Web-Scraper-py)  
 A minimal set of **web scrapers** built to **download course material** during **Algeria’s government-mandated internet blackout** for the baccalaureate exam.
 
 ---
